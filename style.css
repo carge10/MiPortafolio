@@ -1,0 +1,15 @@
+            p{
+                color: orangered;
+                background-color: rgb(101, 168, 38);
+            }
+
+            h2{
+                color: blueviolet;
+            }
+
+            section{
+                border: 2px black solid;
+                margin: 40px;
+                padding: 20px;
+                background-color: grey;
+            }
